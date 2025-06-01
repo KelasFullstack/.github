@@ -38,21 +38,6 @@ Berikut beberapa jenis proyek yang bisa kamu kontribusikan ke organisasi ini:
 - 🧩 Dan lain-lain yang bisa bantu kamu tampilkan skill kamu
 
 > Intinya: selama kamu naruhnya di GitHub, bisa banget direview & masuk showcase 🚀
-
----
-
-## 🧑‍🏫 Reviewer & Expert Tamu
-
-Beberapa sesi akan menghadirkan reviewer beneran dari:
-- Bank Jago
-- Bukalapak
-- Instansi Pemerintah
-- Startup-startup keren lainnya
-
-Mereka akan bantu:
-- Nge-review kode, struktur repo, arsitektur
-
-
 ---
 
 ## 📂 Repositori Utama
