@@ -1,83 +1,82 @@
 # 🚀 KelasFullstack GitHub Organization
 
-> Program komunitas terbuka, persembahan dari **KelasFullstack** 🙏
-> Untuk bantu kamu membangun portofolio, kontribusi open source, dan tampil profesional di dunia tech.
+> Program komunitas terbuka, persembahan dari **KelasFullstack**. Ditujukan untuk mendukung pengembangan portofolio, kontribusi terhadap proyek open source, serta membentuk citra profesional di bidang teknologi.
 
 ---
 
 ## 🎯 Tujuan Program Ini
 
-- 💻 Membangun ekosistem belajar bareng lewat proyek nyata
-- 🧠 Dapat feedback teknikal & bisnis dari para expert
-- 💼 Nyiapin branding GitHub kamu biar makin stand out & profesional
+- 💻 Membangun ekosistem pembelajaran kolaboratif melalui proyek nyata
+- 🧠 Mendapatkan umpan balik teknikal dan bisnis dari para profesional
+- 💼 Menyusun branding GitHub agar tampak lebih menonjol dan profesional
 
 Kami percaya:
-> "Koding itu bisa dipelajari bareng-bareng, sambil benerin GitHub-mu pelan-pelan."
+> "Belajar pemrograman dapat dilakukan bersama, sembari membenahi GitHub secara bertahap."
 
 ---
 
-## 🔍 Apa yang Bisa Kamu Lakukan di Sini?
+## 🔍 Aktivitas yang Dapat Dilakukan
 
-✅ Submit project kamu ke repo komunitas  
-✅ Minta review GitHub profile, project, atau portfolio kamu  
-✅ Ikut sesi review live bareng expert — bebas request review teknikal atau dari sisi bisnis  
-✅ Lihat-lihat contoh project dari contributor lain
+✅ Mengunggah proyek pribadi ke repositori komunitas  
+✅ Meminta ulasan terhadap profil GitHub, proyek, atau portofolio  
+✅ Berpartisipasi dalam sesi ulasan langsung bersama expert—dapat memilih fokus teknikal maupun bisnis  
+✅ Melihat dan mempelajari proyek kontribusi dari peserta lain
 
 ---
 
-## 🔧 Jenis Proyek yang Bisa Kamu Submit
+## 🔧 Jenis Proyek yang Dapat Disumbangkan
 
-Berikut beberapa jenis proyek yang bisa kamu kontribusikan ke organisasi ini:
+Jenis proyek yang dapat dikontribusikan dalam organisasi ini meliputi:
 
-- 🧑‍💼 Portfolio pribadi
-- 🏢 Company Profile Project
-- 🗃️ Sistem Informasi
+- 🧑‍💼 Portofolio pribadi
+- 🏢 Proyek profil perusahaan
+- 🗃️ Sistem informasi
 - 🌐 SaaS (Software as a Service)
-- 🎯 Proyek Latihan / Mini App / Side Project
-- 🧪 Tugas Akhir / Capstone / Eksperimen pribadi
-- 🧩 Dan lain-lain yang bisa bantu kamu tampilkan skill kamu
+- 🎯 Proyek latihan / aplikasi mini / side project
+- 🧪 Tugas akhir / capstone / eksperimen pribadi
+- 🧩 Dan bentuk proyek lainnya yang menunjukkan keterampilan Anda
 
-> Intinya: selama kamu naruhnya di GitHub, bisa banget direview & masuk showcase 🚀
+> Selama proyek Anda tersedia di GitHub, maka proyek tersebut berpotensi untuk ditinjau dan ditampilkan dalam showcase 🚀
 
 ---
 
 ## 🧑‍🏫 Reviewer & Expert Tamu
 
-Beberapa sesi akan menghadirkan reviewer beneran dari:
+Beberapa sesi akan menghadirkan reviewer dari latar belakang profesional seperti:
 - Bank Jago
 - Bukalapak
-- Instansi Pemerintah
-- Startup-startup keren lainnya
+- Instansi pemerintahan
+- Startup dan perusahaan teknologi lainnya
 
-Mereka akan bantu:
-- Nge-review kode, struktur repo, arsitektur
-
+Mereka akan memberikan kontribusi berupa:
+- Ulasan terhadap kode, struktur repositori, dan arsitektur sistem
+- Wawasan tentang bagaimana memasarkan proyek Anda secara teknis maupun strategis
 
 ---
 
 ## 📂 Repositori Utama
 
 🔸 `kelasfullstack-guide`  
-Panduan kontribusi, struktur, dan branding GitHub
+Berisi panduan kontribusi, struktur repositori, dan praktik branding GitHub
 
-🔸 (coming soon) repo terpisah per topik seperti latihan, sistem informasi, dsb.
-
----
-
-## 🧑‍💻 Siapa yang Bisa Ikut?
-
-- Kamu yang baru belajar dan pengen mulai naruh hasil kerja ke GitHub
-- Kamu yang pengen tampil profesional dengan GitHub profile yang lebih rapi
-- Kamu yang pengen tau feedback dari expert secara teknikal maupun bisnis
+🔸 (akan tersedia) Repositori terpisah berdasarkan topik, seperti latihan, sistem informasi, dan lainnya
 
 ---
 
-## 💬 Cara Ikutan?
+## 🧑‍💻 Siapa yang Dapat Berpartisipasi?
 
-1. Lihat `kelasfullstack-guide` buat tau cara kontribusi  
-2. Tambahin project-mu ke folder yang sesuai  
-3. Bisa juga request review di sesi live class  
-4. Siap-siap dapet feedback & masuk GitHub showcase 💥
+- Individu yang sedang belajar dan ingin mulai mendokumentasikan hasil karya melalui GitHub
+- Profesional muda yang ingin menyusun profil GitHub yang lebih tertata dan menarik
+- Siapa pun yang tertarik mendapatkan umpan balik teknikal atau bisnis dari kalangan expert
+
+---
+
+## 💬 Langkah untuk Berpartisipasi
+
+1. Baca `kelasfullstack-guide` untuk memahami alur kontribusi  
+2. Tambahkan proyek Anda ke folder yang relevan  
+3. Ajukan proyek untuk diulas dalam sesi live class  
+4. Terima umpan balik dan tampil dalam GitHub showcase 💥
 
 ---
 
