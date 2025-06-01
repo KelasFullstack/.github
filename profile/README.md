@@ -40,20 +40,6 @@ Jenis proyek yang dapat dikontribusikan dalam organisasi ini meliputi:
 
 ---
 
-## 🧑‍🏫 Reviewer & Expert Tamu
-
-Beberapa sesi akan menghadirkan reviewer dari latar belakang profesional seperti:
-- Bank Jago
-- Bukalapak
-- Instansi pemerintahan
-- Startup dan perusahaan teknologi lainnya
-
-Mereka akan memberikan kontribusi berupa:
-- Ulasan terhadap kode, struktur repositori, dan arsitektur sistem
-- Wawasan tentang bagaimana memasarkan proyek Anda secara teknis maupun strategis
-
----
-
 ## 📂 Repositori Utama
 
 🔸 `kelasfullstack-guide`  
@@ -67,7 +53,7 @@ Berisi panduan kontribusi, struktur repositori, dan praktik branding GitHub
 
 - Individu yang sedang belajar dan ingin mulai mendokumentasikan hasil karya melalui GitHub
 - Profesional muda yang ingin menyusun profil GitHub yang lebih tertata dan menarik
-- Siapa pun yang tertarik mendapatkan umpan balik teknikal atau bisnis dari kalangan expert
+- Siapa pun yang tertarik mendapatkan umpan balik teknikal  dari kalangan expert
 
 ---
 
