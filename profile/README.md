@@ -24,7 +24,7 @@ Kami percaya:
 
 ---
 
-## 🔧 Jenis Proyek yang Dapat Disumbangkan
+## 🔧 Jenis Proyek yang Dapat Dikontribusikan
 
 Jenis proyek yang dapat dikontribusikan dalam organisasi ini meliputi:
 
@@ -33,7 +33,7 @@ Jenis proyek yang dapat dikontribusikan dalam organisasi ini meliputi:
 - 🗃️ Sistem informasi
 - 🌐 SaaS (Software as a Service)
 - 🎯 Proyek latihan / aplikasi mini / side project
-- 🧪 Tugas akhir / capstone / eksperimen pribadi
+- 🧪 Tugas 
 - 🧩 Dan bentuk proyek lainnya yang menunjukkan keterampilan Anda
 
 > Selama proyek Anda tersedia di GitHub, maka proyek tersebut berpotensi untuk ditinjau dan ditampilkan dalam showcase 🚀
