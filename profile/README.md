@@ -49,14 +49,6 @@ Berisi panduan kontribusi, struktur repositori, dan praktik branding GitHub
 
 ---
 
-## 🧑‍💻 Siapa yang Dapat Berpartisipasi?
-
-- Individu yang sedang belajar dan ingin mulai mendokumentasikan hasil karya melalui GitHub
-- Profesional muda yang ingin menyusun profil GitHub yang lebih tertata dan menarik
-- Siapa pun yang tertarik mendapatkan umpan balik teknikal  dari kalangan expert
-
----
-
 ## 💬 Langkah untuk Berpartisipasi
 
 1. Baca `kelasfullstack-guide` untuk memahami alur kontribusi  
